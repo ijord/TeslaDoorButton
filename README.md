@@ -13,3 +13,5 @@ token you'll need to re-compile every 45 days
 Implements some messy JSON parsing. Uses ArduinoJSON, U8G2Lib, and FauxmoESP libraries.
 
 ![Demo Video](https://github.com/ijord/TeslaDoorButton/blob/master/Demo%20Video.gif)
+
+3D printed Case found here: https://www.thingiverse.com/thing:4153726
