@@ -9,3 +9,5 @@ This code also emulates a Philips HUE bulb, which allows you to use Alexa or oth
 
 Enter your WiFi and Tesla credentials at the beginning of the code block. Supports username and password or token, but if you use a
 token you'll need to re-compile every 45 days
+
+Implements some messy JSON parsing. Uses ArduinoJSON, U8G2Lib, and FauxmoESP libraries.
