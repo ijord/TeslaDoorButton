@@ -1,4 +1,7 @@
 # TeslaDoorButton
+
+UPDATE: APRIL 2021- Tesla has changed their security method and this will no longer work. The new v3 Authorization is much more complex and very difficult on an ESP8266.
+
 Arduino ESP8266 Project to Lock or Unlock a Tesla via the API
 
 This project uses an ESP8266 with OLED from HELTEC (https://heltec.org/project/wifi-kit-8/) which can be found at many retailers.
